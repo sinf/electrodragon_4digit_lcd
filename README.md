@@ -9,4 +9,7 @@ VLCD should be around 2 V so the 0-ohm resistor needs to be replaced with a volt
 ![LCD](pics/lcdfront.jpg)
 ![LCD: with 0 ohm resistor removed](pics/lcdback.jpg)
 ![LCD: some useful pins](pics/lcdpinnit.jpg)
+![LCD: arduino nano](pics/lcd-arduinonano.jpg)
+![LCD: arduino nano](pics/lcd-arduinonano.mp4)
+
 
